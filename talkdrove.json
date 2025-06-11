@@ -1,0 +1,36 @@
+{
+  "bot-name": "DELTA-MD-V1",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ SIR FRONTIER",
+  "logo": "https://files.catbox.moe/6nylub.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://prince-session.onrender.com",
+  "owner-verification": "princemayel99@gmail.com",
+  
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here. Make sure it starts with prince-md-",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc)",
+      "value": ".",
+      "required": true
+    },
+"OWNER_NAME": {
+      "description": "Type Bot Owner Name( your name).",
+      "required": false,
+      "value": "FRONTIER SIR"
+}, 
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot(you number eg 263788521064).",
+      "required": false,
+      "value": "263788521064"
+    }, 
+    "MODE": {
+      "description": "Bot mode can be public or private,  (in lowercase) (e.g., public)",
+      "value": "private",
+      "required": true
+    }
+  }
+}
