@@ -23,7 +23,7 @@ Generate your session ID for deployment:
 
 ## 🚀 Deployment Options
 
-- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)  
+- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Frontier-Lord200/DELTA-MD-V1)  
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
