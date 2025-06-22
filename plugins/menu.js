@@ -29,7 +29,7 @@ let madeMenu = `*╭══〘〘 ${config.BOT_NAME} 〙〙*
 *┃❍* *ᴍᴏᴅᴇ* : *${config.MODE}*
 *┃❍* *ᴘʀᴇғɪx* : *${config.PREFIX}*
 *┃❍* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)},GB / ${Math.round(require('os').totalmem / 1024 / 1024)},GB
-*┃❍* *ᴅᴇᴠ* : *ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ*
+*┃❍* *ᴅᴇᴠ* : *FRONTIER ᴛᴇᴄʜ*
 *┃❍* *ᴠᴇʀsɪᴏɴs* : *1.0.1*
 *╰════════════════⊷*
 *╭────❒⁠⁠⁠⁠* *DOWNLOADER-CMD* *❒⁠⁠⁠⁠* 
