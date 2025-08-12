@@ -13,7 +13,7 @@
 
 Generate your session ID for deployment:
 
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://princeweb.onrender.com)
+[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://delta-md-pair.onrender.com/pair)
 
 ## ⚙️ Setup Guide
 
@@ -27,29 +27,23 @@ Generate your session ID for deployment:
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
+  [Watch on YouTube](https://www.youtube.com/@malvintech2)
 
-- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mayelprince/PRINCE-MDXI.git)
+- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Frontier-Lord200/DELTA-MD-V1.git)
   
   **📺 Render Deployment Tutorial:**  (not avialable)
   
--  [Watch on YouTube](https://www.youtube.com/@princetech11)
-
-- **Deploy on Talk Drove**  
-  
-  **📺 Talk Drove Deployment Tutorial:**
--  [creat account](https://host.talkdrove.com/auth/signup?ref=74F6235511)
+-  [Watch on YouTube](https://www.youtube.com/@malvintech)
 
 
--  [deploy](https://host.talkdrove.com/share-bot/36)
 
   
--  [Watch on YouTube](https://www.youtube.com/@princetech11)
+-  [Watch on YouTube](https://www.youtube.com/@malvintech2)
 
 - **Deploy on Panel**
   
   **📺 Panel Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
+  [Watch on YouTube](https://www.youtube.com/@malvintech)
 
 ## 📢 Join Our WhatsApp Channel
 
